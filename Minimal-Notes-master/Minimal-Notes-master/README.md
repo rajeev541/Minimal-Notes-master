@@ -15,6 +15,4 @@
 <a href="https://vladocar.github.io/Minimal-Notes/">https://vladocar.github.io/Minimal-Notes/</a>
 
 
-<h3>License</h3>
 
-This project is licensed under the MIT License
